@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "Stiv Jobs",
+        "price" : "45.89",
+        "description" : "Sitiv Jobs hayoti va muovfaqiyatlari",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/asdasdasdeaf",
+            "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4a7e7bQSfOoUGNSyhGwfvmOvYFILuRyLUBi-_BPTVU8RHXZu2Od8mFSy6k3vzo3LRwz4&usqp=CAU"
+        }],
+        "category" : "Books",
+        "seller" : "Apple inc",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews" : []
+    },
+    {
+        "name": "MacBook pro 16",
+        "price": "45.89",
+        "description": "MacBook Pro 16 Laptop from Apple",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "products/tdgsdfrsrdsadfsed",
+            "url": "https://220volt.uz/image/cache/catalog/apple/MacBook/Macbook%20pro%2016-1000x1000.jpg"
+        }],
+        "category": "Laptop",
+        "seller": "Apple inc",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }
+]
